@@ -1,2 +1,0 @@
-# backendninja
-udemy demo project
